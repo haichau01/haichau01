@@ -13,9 +13,13 @@ I enjoy working on backend services, desktop applications, and exploring contain
 ![WinForms](https://img.shields.io/badge/WinForms-0078D6?style=for-the-badge&logo=windows&logoColor=white) 
 ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white) 
 ![WPF](https://img.shields.io/badge/WPF-68217A?style=for-the-badge&logo=windows&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) 
 ![Dependency Injection](https://img.shields.io/badge/Dependency%20Injection-6DB33F?style=for-the-badge&logo=spring&logoColor=white) 
+![OOP](https://img.shields.io/badge/OOP-008000?style=for-the-badge&logo=codeforces&logoColor=white) 
 
 ### 🗄️ Databases  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) 
@@ -29,6 +33,7 @@ I enjoy working on backend services, desktop applications, and exploring contain
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) 
 ![Postfix](https://img.shields.io/badge/Postfix-FF0000?style=for-the-badge&logo=maildotru&logoColor=white) 
 ![Microsoft Graph API](https://img.shields.io/badge/Microsoft%20Graph-0378D4?style=for-the-badge&logo=microsoft&logoColor=white) 
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)  
 
 ### 🤖 AI & LLM Ecosystem  
 ![LLM Models](https://img.shields.io/badge/LLM%20Models-AI-blue?style=for-the-badge&logo=openai&logoColor=white) 
@@ -43,6 +48,10 @@ I enjoy working on backend services, desktop applications, and exploring contain
 ![ASP.NET Identity](https://img.shields.io/badge/ASP.NET%20Identity-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) 
 ![OWASP](https://img.shields.io/badge/OWASP%20Top%2010-000000?style=for-the-badge&logo=owasp&logoColor=white) 
 
+### 🤝 Collaboration & Version Control 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white) 
+
 ### 🔑 Object-Oriented Programming (OOP)  
 - **Principles:** Encapsulation, Abstraction, Inheritance, Polymorphism  
 - **SOLID:** Single Responsibility, Open/Closed, Liskov Substitution, Interface Segregation, Dependency Inversion  
@@ -53,7 +62,7 @@ I enjoy working on backend services, desktop applications, and exploring contain
 - **Structural:** Adapter, Composite, Decorator  
 - **Behavioral:** Observer, Strategy, Command, Mediator
 - **Architectural:** MVC, MVVM, Repository, Unit of Work, CQRS
-  
+
 ## 📫 Connect with Me  
 - GitHub: [haichau01](https://github.com/haichau01)  
 - LinkedIn: [hehe](https://linkedin.com/in/haichau01)  
