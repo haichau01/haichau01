@@ -1,9 +1,5 @@
 # 👋 Hi there, I'm Hai :)
 
-<p align="center">
-  <img src="https://github.com/haichau01.png" width="150" height="150" style="border-radius:50%;" />
-</p>
-
 ## 🚀 About Me
 I'm a developer passionate about building software with modern technologies.  
 I enjoy working on backend services, desktop applications, and exploring containerization.
