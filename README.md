@@ -50,8 +50,8 @@ I enjoy working on backend services, desktop applications, and exploring contain
 
 ### 🎨 Design Patterns  
 - **Creational:** Singleton, Factory, Builder, Prototype  
-- **Structural:** Adapter, Facade, Composite, Proxy, Decorator  
-- **Behavioral:** Observer, Strategy, Command, Mediator, Chain of Responsibility  
+- **Structural:** Adapter, Composite, Decorator  
+- **Behavioral:** Observer, Strategy, Command, Mediator
 - **Architectural:** MVC, MVVM, Repository, Unit of Work, CQRS
   
 ## 📫 Connect with Me  
