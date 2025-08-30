@@ -43,6 +43,11 @@ I enjoy working on backend services, desktop applications, and exploring contain
 ![ASP.NET Identity](https://img.shields.io/badge/ASP.NET%20Identity-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) 
 ![OWASP](https://img.shields.io/badge/OWASP%20Top%2010-000000?style=for-the-badge&logo=owasp&logoColor=white) 
 
+### 🔑 Object-Oriented Programming (OOP)  
+- **Principles:** Encapsulation, Abstraction, Inheritance, Polymorphism  
+- **SOLID:** Single Responsibility, Open/Closed, Liskov Substitution, Interface Segregation, Dependency Inversion  
+- **Best Practices:** Clean Code, DRY (Don’t Repeat Yourself), KISS (Keep It Simple, Stupid), YAGNI (You Ain’t Gonna Need It)  
+
 ### 🎨 Design Patterns  
 - **Creational:** Singleton, Factory, Builder, Prototype  
 - **Structural:** Adapter, Facade, Composite, Proxy, Decorator  
@@ -51,4 +56,4 @@ I enjoy working on backend services, desktop applications, and exploring contain
   
 ## 📫 Connect with Me  
 - GitHub: [haichau01](https://github.com/haichau01)  
-- LinkedIn: [your-linkedin-link](https://linkedin.com/in/your-username)  
+- LinkedIn: [hehe](https://linkedin.com/in/haichau01)  
